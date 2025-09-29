@@ -85,12 +85,9 @@ Create a markdown report with:
 
     eth0.packets.txt — Exported packet log (optional)
 
-🧠 Author
 
-D.V.S. Saaketh Cybersecurity Intern | GD Goenka University Specialized in protocol analysis, system diagnostics, and ethical troubleshooting
 
 
 
 ---
 
-Let me know when you're ready to push this to GitHub — I can guide you through `git init`, commits, and publishing the repo. Or if you want to add badges, screenshots, or a license, I’ll help you level it up.
